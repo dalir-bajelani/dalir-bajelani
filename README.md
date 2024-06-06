@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Dalir 👋
 
 👨‍💻 .NET Full-Stack Developer | 15+ Years of Experience
 
