@@ -17,7 +17,7 @@ I'm a seasoned .NET full-stack developer with over 15 years of experience in the
 
 ### ⚙️ Expertise:
 - **Backend:** .NET, ASP.NET, C#, SQL Server
-- **Frontend:** HTML, CSS, JavaScript, React, Vue
+- **Frontend:** HTML, CSS, JavaScript, React, Vue, Angular
 - **Cloud:** Azure, AWS
 - **DevOps:** CI/CD, Docker, Kubernetes
 
