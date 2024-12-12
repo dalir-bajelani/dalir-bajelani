@@ -11,10 +11,6 @@ I'm a seasoned .NET full-stack developer with over 15 years of experience in the
 - Proficient in both frontend and backend development, ensuring seamless integration and performance.
 - Worked on a wide range of projects, from small startups to large enterprises.
 
-### 📁 Why My GitHub is Empty:
-- As a full-time employee, my responsibilities and contributions have primarily been within private corporate repositories.
-- Many of the projects I have worked on are stored in private repositories on Azure Repos and Bitbucket, hence the limited activity on GitHub.
-
 ### ⚙️ Expertise:
 - **Backend:** .NET, ASP.NET, C#, SQL Server
 - **Frontend:** HTML, CSS, JavaScript, React, Vue, Angular
