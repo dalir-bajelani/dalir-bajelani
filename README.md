@@ -28,6 +28,5 @@ Feel free to connect with me to discuss potential collaborations or any ideas yo
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/dalir-bajelani-86985b71/)
-- [Email](mailto:dalir.bajelani@outlkook.com)
 
 Thanks for visiting my profile!
